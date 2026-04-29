@@ -8,7 +8,7 @@ package com.mycompany.di_p4;
  *
  * @author USER
  */
-public class DI_p4 {
+public class Main {
 
     public static void main(String[] args) {
         Menu m = new Menu();
